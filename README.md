@@ -2,7 +2,7 @@
 
 Steps to reproduce:
 
-1. Checkout this repository
+1. Checkout this repository's `broken` tag
 2. `npm install` (presumably `yarn` will also work)
 3. `ember s`
 4. View basically empty app working in web browser via local server (http://localhost:4200)

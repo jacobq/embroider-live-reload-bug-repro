@@ -1,5 +1,7 @@
 # Embroider live-reload bug repro
 
+See https://github.com/embroider-build/embroider/issues/1211
+
 Steps to reproduce:
 
 1. Checkout this repository's `broken` tag

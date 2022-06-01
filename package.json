@@ -63,6 +63,10 @@
     "qunit-dom": "^2.0.0",
     "webpack": "^5.72.1"
   },
+  "resolutions": {
+    "**/livereload-js": "3.3.3",
+    "**/terser": "5.10.0"
+  },
   "engines": {
     "node": "12.* || 14.* || >= 16"
   },
